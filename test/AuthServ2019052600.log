@@ -1,0 +1,2 @@
+[2019-05-26 10:33:44] [Fatal] [23bc] uninstallSrvc(H3C DAM Agent): openService[H3C DAM Agent] FAILED with ErrNo 1060
+[2019-05-26 10:33:45] [Fatal] [23bc] uninstallSrvc(iNode DAM Agent): openService[iNode DAM Agent] FAILED with ErrNo 1060
